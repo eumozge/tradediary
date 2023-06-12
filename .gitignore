@@ -1,0 +1,34 @@
+# Python #
+*dist
+
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+
+# If you are using PyCharm #
+.idea
+
+# If you are using Visual Studio Code #
+.vscode/*
+
+# Unit test / coverage reports
+.pytest_cache/*
+.coverage
+htmlcov
+screenshots
+
+# Environments
+.env
+venv
+
+# JavaScript #
+
+# vue #
+env.ts
+
+# Environments
+node_modules
